@@ -1,0 +1,575 @@
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\Ecommerce.exe.config
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\Ecommerce.exe
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\Ecommerce.pdb
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\BouncyCastle.Cryptography.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\Google.Protobuf.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\K4os.Compression.LZ4.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\K4os.Hash.xxHash.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.Buffers.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.IO.Pipelines.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.Memory.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.Numerics.Vectors.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\ZstdSharp.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\MySql.Data.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\BouncyCastle.Cryptography.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\Google.Protobuf.pdb
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\Google.Protobuf.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\K4os.Compression.LZ4.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\K4os.Hash.xxHash.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.Buffers.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.IO.Pipelines.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.Memory.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.Numerics.Vectors.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\MySql.Data.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.AssemblyReference.cache
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.SuggestedBindingRedirects.cache
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.Properties.Resources.resources
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.GenerateResource.cache
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.CopyComplete
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.exe
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.pdb
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.Text.Json.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.ValueTuple.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\System.Text.Encodings.Web.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\Newtonsoft.Json.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\Newtonsoft.Json.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\Ecommerce.exe.config
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\Ecommerce.exe
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\Ecommerce.pdb
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\EcommerceDB.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\Google.Protobuf.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\K4os.Compression.LZ4.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\K4os.Hash.xxHash.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\Newtonsoft.Json.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.Buffers.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.IO.Pipelines.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.Memory.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.Numerics.Vectors.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\ZstdSharp.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\MySql.Data.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.ValueTuple.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.Text.Encodings.Web.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\EcommerceDB.pdb
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\EcommerceDB.dll.config
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\Google.Protobuf.pdb
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\Google.Protobuf.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\K4os.Compression.LZ4.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\K4os.Hash.xxHash.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\Newtonsoft.Json.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.Buffers.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.IO.Pipelines.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.Memory.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.Numerics.Vectors.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\bin\Debug\MySql.Data.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.AssemblyReference.cache
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.SuggestedBindingRedirects.cache
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\obj\Debug\Ecommerce.form_login.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\obj\Debug\Ecommerce.form_register.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\obj\Debug\Ecommerce.Landing.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\obj\Debug\Ecommerce.Properties.Resources.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.GenerateResource.cache
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.CopyComplete
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\obj\Debug\Ecommerce.exe
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\obj\Debug\Ecommerce.pdb
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\obj\Debug\Ecommerce.AddProduct.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce\Ecommerce\Ecommerce\obj\Debug\Ecommerce.form_login_admin.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\Ecommerce.exe.config
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\Ecommerce.exe
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\Ecommerce.pdb
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\EcommerceDB.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\Google.Protobuf.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\K4os.Compression.LZ4.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\K4os.Hash.xxHash.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\Newtonsoft.Json.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.Buffers.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.IO.Pipelines.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.Memory.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.Numerics.Vectors.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\ZstdSharp.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\MySql.Data.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.ValueTuple.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.Text.Encodings.Web.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\EcommerceDB.pdb
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\EcommerceDB.dll.config
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\Google.Protobuf.pdb
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\Google.Protobuf.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\K4os.Compression.LZ4.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\K4os.Hash.xxHash.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\Newtonsoft.Json.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.Buffers.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.IO.Pipelines.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.Memory.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.Numerics.Vectors.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\MySql.Data.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.AssemblyReference.cache
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.AddProduct.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.DeleteProduct.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.UpdateProduct.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.form_login.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.form_login_admin.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.form_register.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.Properties.Resources.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.GenerateResource.cache
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.CopyComplete
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.exe
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.pdb
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.DetailProduct.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\MySqlConnector.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\bin\Debug\MySqlConnector.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.Auth.Register.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.Auth.Login.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.LandingPage.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.Admin.Categories.ListCategories.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.DetailProduct.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.Admin.Categories.EntryCategory.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.Admin.Products.ListProducts.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\Ecommerce.part3\Ecommerce.p3\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.Admin.Products.EntryProduct.resources
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\MySqlConnector.dll
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\bin\Debug\MySqlConnector.xml
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.Admin.Categories.EntryCategory.resources
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.Admin.Categories.ListCategories.resources
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.Admin.Products.EntryProduct.resources
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.Admin.Products.ListProducts.resources
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.Auth.Login.resources
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.Auth.Register.resources
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.DetailProduct.resources
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.LandingPage.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Ecommerce.exe.config
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Ecommerce.exe
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Ecommerce.pdb
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Google.Protobuf.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\K4os.Compression.LZ4.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\K4os.Hash.xxHash.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\MySql.Data.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\MySqlConnector.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Newtonsoft.Json.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Buffers.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.IO.Pipelines.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Memory.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Numerics.Vectors.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\ZstdSharp.dll
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Google.Protobuf.pdb
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Google.Protobuf.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\K4os.Compression.LZ4.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\K4os.Hash.xxHash.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\MySql.Data.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\MySqlConnector.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Newtonsoft.Json.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Buffers.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.IO.Pipelines.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Memory.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Numerics.Vectors.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.csproj.AssemblyReference.cache
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.Properties.Resources.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Admin.Categories.EntryCategory.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Admin.Categories.ListCategories.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Admin.Products.EntryProduct.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Admin.Products.ListProducts.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Auth.Login.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Auth.Register.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.DetailProduct.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.LandingPage.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.csproj.GenerateResource.cache
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.csproj.CopyComplete
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.exe
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.pdb
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.Invoice.resources
+D:\AMIKOM\Pemrograman Lanjut\Ecommerce\Ecommerce\obj\Debug\Ecommerce.View.Profile.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Invoice.resources
+E:\Kuliah\Semester 3\Pemrograman Lanjut\FP\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Profile.resources
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.csproj.AssemblyReference.cache
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.Properties.Resources.resources
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Admin.Categories.EntryCategory.resources
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Admin.Categories.ListCategories.resources
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Admin.Products.EntryProduct.resources
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Admin.Products.ListProducts.resources
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Auth.Login.resources
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Auth.Register.resources
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.DetailProduct.resources
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Invoice.resources
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.LandingPage.resources
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.View.Profile.resources
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.csproj.GenerateResource.cache
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Ecommerce.exe.config
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Ecommerce.exe
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Ecommerce.pdb
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Azure.Core.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Azure.Identity.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Google.Protobuf.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\K4os.Compression.LZ4.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\K4os.Hash.xxHash.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.Identity.Client.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\MySql.Data.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\MySqlConnector.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Newtonsoft.Json.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Buffers.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.ClientModel.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.IO.Pipelines.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Memory.Data.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Memory.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Numerics.Vectors.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Security.AccessControl.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Security.Permissions.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Security.Principal.Windows.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Text.Encodings.Web.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Text.Json.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.ValueTuple.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\ZstdSharp.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Azure.Core.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Azure.Identity.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Google.Protobuf.pdb
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Google.Protobuf.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\K4os.Compression.LZ4.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\K4os.Hash.xxHash.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.Identity.Client.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\MySql.Data.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\MySqlConnector.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\Newtonsoft.Json.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Buffers.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.ClientModel.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.IO.Pipelines.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Memory.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Memory.Data.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Numerics.Vectors.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Security.AccessControl.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Security.Permissions.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Security.Principal.Windows.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Text.Encodings.Web.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Text.Json.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\System.ValueTuple.xml
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.csproj.Up2Date
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.exe
+E:\Web-2025\E-Commerce-Windows-Form-Application\Ecommerce\obj\Debug\Ecommerce.pdb
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Ecommerce.exe.config
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Ecommerce.exe
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Ecommerce.pdb
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Azure.Core.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Azure.Identity.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Google.Protobuf.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\K4os.Compression.LZ4.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\K4os.Hash.xxHash.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.Identity.Client.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\MySql.Data.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\MySqlConnector.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Newtonsoft.Json.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Buffers.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.ClientModel.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.IO.Pipelines.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Memory.Data.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Memory.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Numerics.Vectors.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Security.AccessControl.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Security.Permissions.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Security.Principal.Windows.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Text.Encodings.Web.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Text.Json.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.ValueTuple.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\ZstdSharp.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Azure.Core.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Azure.Identity.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Google.Protobuf.pdb
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Google.Protobuf.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\K4os.Compression.LZ4.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\K4os.Hash.xxHash.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.Identity.Client.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\MySql.Data.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\MySqlConnector.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\Newtonsoft.Json.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Buffers.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.ClientModel.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.IO.Pipelines.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Memory.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Memory.Data.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Numerics.Vectors.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Security.AccessControl.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Security.Permissions.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Security.Principal.Windows.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Text.Encodings.Web.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Text.Json.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\System.ValueTuple.xml
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\Book-Store\Ecommerce\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.csproj.AssemblyReference.cache
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.Properties.Resources.resources
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Admin.Categories.EntryCategory.resources
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Admin.Categories.ListCategories.resources
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Admin.Products.EntryProduct.resources
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Admin.Products.ListProducts.resources
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Auth.Login.resources
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Auth.Register.resources
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.DetailProduct.resources
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Invoice.resources
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.LandingPage.resources
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Profile.resources
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.csproj.GenerateResource.cache
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.csproj.Up2Date
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.exe
+E:\Web-2025\Book-Store\Ecommerce\obj\Debug\Ecommerce.pdb
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Ecommerce.exe.config
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Ecommerce.exe
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Ecommerce.pdb
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Azure.Core.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Azure.Identity.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Google.Protobuf.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\MySql.Data.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\MySqlConnector.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Buffers.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.ClientModel.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.IO.Pipelines.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Memory.Data.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Memory.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Security.AccessControl.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Security.Permissions.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Text.Json.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.ValueTuple.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\ZstdSharp.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Azure.Core.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Azure.Identity.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Google.Protobuf.pdb
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Google.Protobuf.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\MySql.Data.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\MySqlConnector.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Buffers.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.ClientModel.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.IO.Pipelines.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Memory.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Memory.Data.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Security.AccessControl.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Security.Permissions.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Text.Json.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\System.ValueTuple.xml
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.Properties.Resources.resources
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Admin.Categories.EntryCategory.resources
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Admin.Categories.ListCategories.resources
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Admin.Products.EntryProduct.resources
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Admin.Products.ListProducts.resources
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Auth.Login.resources
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Auth.Register.resources
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.DetailProduct.resources
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Invoice.resources
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.LandingPage.resources
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.View.Profile.resources
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.csproj.GenerateResource.cache
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.csproj.Up2Date
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.exe
+C:\Users\lthth\OneDrive\Tài liệu\GitHub\Book-Store\Ecommerce\obj\Debug\Ecommerce.pdb
